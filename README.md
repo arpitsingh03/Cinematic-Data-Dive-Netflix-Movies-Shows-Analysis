@@ -1,4 +1,3 @@
-# Cinematic-Data-Dive-Netflix-Movies-Shows-Analysis
 # 🎬 Cinematic Data Dive | Netflix Movies & Shows Analysis
 
 ### 📊 Power BI | Power Query | DAX | Data Analytics | Data Visualization
