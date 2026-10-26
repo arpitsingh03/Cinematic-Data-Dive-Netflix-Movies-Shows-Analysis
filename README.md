@@ -171,16 +171,6 @@ Cinematic-Data-Dive/
 
 ---
 
-## 🚀 How to Use
-
-1. Clone or download this repository.
-2. Install **Microsoft Power BI Desktop**.
-3. Open the `.pbix` file from the `dashboard` folder.
-4. Refresh the dataset if required.
-5. Explore the dashboard using interactive filters and visualizations.
-
----
-
 ## 💡 Business Applications
 
 The analysis can support entertainment and OTT platforms in:
@@ -204,7 +194,3 @@ The analysis can support entertainment and OTT platforms in:
 **Arpit Singh**
 
 *Data Analyst | SQL | Python | Power BI | Excel*
-
----
-
-### ⭐ If you find this project useful, consider giving the repository a star!
